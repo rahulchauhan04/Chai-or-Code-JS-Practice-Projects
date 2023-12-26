@@ -9,3 +9,5 @@ Project 3 (Digital Clock) 🕔
 Project 4 (Guess The Number) 👲
 
 Project 6 (Unlimited Colors) 👲
+
+Project 7 (Image Search Engine) 🔍
